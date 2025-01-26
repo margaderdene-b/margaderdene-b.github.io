@@ -1,6 +1,15 @@
-title: Maadaa Bayarsaikhan
+# Hi, I'm Maadaa! 
 
 
-# Welcome to My Portfolio
+### I am a 
+🔧 Mechanical Engineering student at NYU Abu Dhabi
 
-Hi, I'm Margad-Erdene Bayarsaikhan.
+### I am originally from 
+🇲🇳 Ulaanbaatar Mongolia
+
+### I am passionate about
+👾 Soft Robotics
+🖱️ Mechanical Design
+
+
+
