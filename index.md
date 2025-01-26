@@ -5,10 +5,10 @@
 🔧 Mechanical Engineering student at NYU Abu Dhabi
 
 ### I am originally from 
-🇲🇳 Ulaanbaatar Mongolia
+🇲🇳 Ulaanbaatar, Mongolia
 
 ### I am passionate about
-👾 Soft Robotics
+👾 Soft Robotics  
 🖱️ Mechanical Design
 
 
