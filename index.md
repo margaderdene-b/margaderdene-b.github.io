@@ -1,7 +1,5 @@
----
-layout: default
-title: Home
----
+title: Maadaa Bayarsaikhan
+
 
 # Welcome to My Portfolio
 
